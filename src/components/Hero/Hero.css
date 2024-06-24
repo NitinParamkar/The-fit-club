@@ -162,6 +162,11 @@
     height: 30rem;
     left:0;  
 }
+@media screen and (max-width: 1248px) and (min-width: 750px) {
+    .calories {
+        display: none;
+    }
+}
 @media screen and (max-width: 768px){
      .hero{
         flex-direction: column;
@@ -223,5 +228,10 @@
         width: 15rem;
         left: 2rem;
         top: 0rem;
+     }
+     .hero-buttons {
+        justify-content: center;
+        align-items: center;
+        width: 100%;
      }
 }
