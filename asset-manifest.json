@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/The-fit-club/static/css/main.805305b7.css",
-    "main.js": "/The-fit-club/static/js/main.078b148c.js",
+    "main.css": "/The-fit-club/static/css/main.79de71c8.css",
+    "main.js": "/The-fit-club/static/js/main.86eeeb23.js",
     "static/media/hero_image.png": "/The-fit-club/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/The-fit-club/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/The-fit-club/static/media/image1.1091417d32e491f0bbb6.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/The-fit-club/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/The-fit-club/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/The-fit-club/index.html",
-    "main.805305b7.css.map": "/The-fit-club/static/css/main.805305b7.css.map",
-    "main.078b148c.js.map": "/The-fit-club/static/js/main.078b148c.js.map"
+    "main.79de71c8.css.map": "/The-fit-club/static/css/main.79de71c8.css.map",
+    "main.86eeeb23.js.map": "/The-fit-club/static/js/main.86eeeb23.js.map"
   },
   "entrypoints": [
-    "static/css/main.805305b7.css",
-    "static/js/main.078b148c.js"
+    "static/css/main.79de71c8.css",
+    "static/js/main.86eeeb23.js"
   ]
 }
