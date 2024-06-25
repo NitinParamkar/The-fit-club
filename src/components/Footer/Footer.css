@@ -29,15 +29,40 @@
     filter: blur(200px);
     background: rgb(255,115,0);
 }
-.social-links{
+.social-links {
     display: flex;
-    gap: 4rem;
+    gap: 4rem; 
+    align-items: center; 
 }
-.social-links>img{
-    height: 2rem;
-    width: 2rem;
-    cursor: pointer;
+
+.social-links a {
+    display: flex; 
+    align-items: center; 
 }
-.logo-f>img{
-    width: 10rem;
+
+.social-links a img {
+    height: 2rem; 
+    width: 2rem; 
+    cursor: pointer; 
+    transition: transform 0.3s ease-in-out; 
 }
+
+.social-links a img:hover {
+    transform: scale(1.1); 
+}
+
+.logo-f > img {
+    width: 10rem;    
+    height: auto;   
+    max-width: 100%; 
+    display: block;  
+    margin: 0 auto;  
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease-in-out; 
+}
+
+.logo-f > img:hover {
+    transform: scale(1.05); 
+}
+

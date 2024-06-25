@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: " Consistency is key to achieving lasting results. At Fit Club, we cultivate a supportive environment where you can stay motivated and consistent. Let's work together to create healthy habits that last a lifetime. ",
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:" Joining the Fit Club was the best decision I've made for my health. The trainers are incredibly knowledgeable and supportive, and the variety of classes keeps things exciting. I've lost 15 pounds and feel stronger than ever!",
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }

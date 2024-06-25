@@ -95,6 +95,11 @@
     top: 2rem;
     color: black;
   }
+.heart-rate:hover{
+   transform: scale(1.2);
+   transition: transform 1s ease;
+   cursor: pointer;
+}
 .heart-rate{
     display: flex;
     flex-direction: column;
@@ -130,6 +135,11 @@
     right: 20rem;
     z-index: -1;
     width: 15rem;
+}
+.calories:hover{
+    transform: scale(1.2);
+    transition: transform 1s ease;
+    cursor: pointer;
 }
 .calories{
     display: flex;

@@ -12,6 +12,7 @@
 }
 .left-r>img{
     object-fit: cover;
+    cursor: pointer;
 }
 .left-r>:nth-child(1){
     width: 12rem;

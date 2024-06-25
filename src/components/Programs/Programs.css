@@ -53,6 +53,8 @@
 .category:hover{
     background: var(--planCard);
     cursor: pointer;
+    transform: scale(1.05);
+    transition: background-color 0.3s ease, transform 1s ease;
 }
 @media screen and (max-width: 768px){
     .programs-header{
